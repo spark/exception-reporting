@@ -51,11 +51,11 @@ class Reporter
         inProject: true
 
     params =
-      apiKey: '7ddca14cb60cbd1cd12d1b252473b076'
+      apiKey: '67df35116e8250ccc8c4a3e081882b35'
       notifier:
-        name: 'Atom'
+        name: 'Spark Dev'
         version: atom.getVersion()
-        url: 'https://www.atom.io'
+        url: 'https://spark.io'
       events: [
         userId: atom.config.get('exception-reporting.userId')
         appVersion: atom.getVersion()
