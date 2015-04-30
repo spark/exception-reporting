@@ -3,7 +3,7 @@
   "main": "./lib/main",
   "version": "0.24.0",
   "description": "Reports uncaught Spark Dev exceptions to bugsnag.com",
-  "repository": "https://github.com/atom/exception-reporting",
+  "repository": "https://github.com/spark/exception-reporting",
   "license": "MIT",
   "engines": {
     "atom": ">0.48.0"
