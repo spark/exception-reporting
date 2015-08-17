@@ -9,7 +9,7 @@
     "atom": ">0.48.0"
   },
   "dependencies": {
-    "coffeestack": "git://github.com/spark/coffeestack.git",
+    "coffeestack": "https://github.com/spark/coffeestack/releases/download/v1.1.2-dev/v1.1.2-dev.tar.gz",
     "guid": "0.0.11",
     "request": "^2.33.0",
     "stack-trace": "0.0.9",
